@@ -20,15 +20,15 @@ body{
 }
 
 #pie{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
  	background-image: url(../img/pi.png);
  
   position:absolute;
   left: 50%;
   top: 50%;
-  margin-left: -50px;
-  margin-top: -50px;
+  margin-left: -75px;
+  margin-top: -75px;
 }
 
 h1{
